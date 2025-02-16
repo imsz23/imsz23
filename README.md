@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imsz23
-- 👀 Open to work
-- 🌱 JavaScript | CSS | HTML
-- 💞️ I’m collaborating as a Frontend Developer
+- 💼 Open to work
+- 📖 JavaScript | CSS | HTML
+- 💻 I’m collaborating as a Frontend Developer
 - 📫 How to reach me e-mail: cristinasuzana2006@gmail.com
 
 <!---
